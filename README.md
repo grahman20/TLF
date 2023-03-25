@@ -5,4 +5,4 @@ We present a framework called TLF that builds a classifier for the target domain
 
 Rahman, M. G., and Islam, M. Z. (2022): A Framework for Supervised Heterogeneous Transfer Learning using Dynamic Distribution Adaptation and Manifold Regularization, IEEE Transactions on Services Computing, Accepted on 29 September 2022. 
  
-@author Md Geaur Rahman <gea.bau.edu.bd>
+@author Gea Rahman <https://csusap.csu.edu.au/~grahman/>
